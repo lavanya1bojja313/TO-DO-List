@@ -29,5 +29,6 @@ It is lightweight, beginner-friendly, and requires no external libraries or back
 ## 📂 How to Use
 
 1. Clone or download this repository
-2. Open the `index.html` file in your browser.
-3. Start adding your tasks and managing your day!
+   https://github.com/lavanya1bojja313/TO-DO-List
+3. Open the `index.html` file in your browser.
+4. Start adding your tasks and managing your day!
